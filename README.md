@@ -9,9 +9,9 @@ This repository contains the work completed during the **ShadowFox Data Science 
 
 ## 📁 Table of Contents
 
-- [🟢 Beginner Task – Visualization Library Documentation](#beginner-task)
-- [🟡 Intermediate Task – Delhi Air Quality Analysis](#intermediate-task)
-- [🔴 Advanced Task – Cricket Fielding Performance Scoring](#advanced-task)
+- [🟢 Beginner Task – Visualization Library Documentation](Beginner_task.ipynb)
+- [🟡 Intermediate Task – Delhi Air Quality Analysis](delhiaqi.ipynb)
+- [🔴 Advanced Task – Cricket Fielding Performance Scoring](Cricket_analysis.ipynb)
 
 ---
 
@@ -28,7 +28,7 @@ This task involved creating detailed documentation comparing two popular Python 
 - Use-case-based recommendations
 - Comparison table
 
-📄 **File:** [`Beginner_task- Documentation`](Beginner_task.ipynb)
+📄 **File:** [`Beginner task- Documentation`](Beginner_task.ipynb)
 
 ---
 
@@ -62,7 +62,7 @@ Designed a metric-based evaluation system to score fielders’ performances duri
 - Player-wise scoring
 - Summary dashboard
 
-📊 **File:** [`Cricket_Fielding_Analysis`](Cricket_analysis.ipynb)
+📊 **File:** [`Cricket Fielding Analysis`](Cricket_analysis.ipynb)
 
 ---
 
